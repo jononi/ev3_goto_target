@@ -1,0 +1,22 @@
+{
+    "name": "GoTo_Target",
+    "description": "",
+    "dependencies": {
+        "ev3": "*",
+        "storage": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "ev3"
+    ],
+    "preferredEditor": "tsprj"
+}
